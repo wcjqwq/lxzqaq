@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wcjqwq.github.io/lxz</id>
+    <title>旅行者的博客</title>
+    <updated>2022-05-14T01:58:23.315Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://wcjqwq.github.io/lxz"/>
+    <link rel="self" href="https://wcjqwq.github.io/lxz/atom.xml"/>
+    <subtitle>QAQ</subtitle>
+    <logo>https://wcjqwq.github.io/lxz/images/avatar.png</logo>
+    <icon>https://wcjqwq.github.io/lxz/favicon.ico</icon>
+    <rights>All rights reserved 2022, 旅行者的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[教你在手机上玩我的世界Java版]]></title>
+        <id>https://wcjqwq.github.io/lxz/post/jiao-ni-zai-shou-ji-shang-wan-wo-de-shi-jie-java-ban/</id>
+        <link href="https://wcjqwq.github.io/lxz/post/jiao-ni-zai-shou-ji-shang-wan-wo-de-shi-jie-java-ban/">
+        </link>
+        <updated>2022-05-14T00:31:49.000Z</updated>
+        <content type="html"><![CDATA[<p>下载</p>
+]]></content>
+    </entry>
+</feed>
